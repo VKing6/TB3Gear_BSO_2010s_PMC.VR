@@ -1,0 +1,8 @@
+#include "tb3\loadouts.hpp"
+class CfgFunctions {
+	class tb3 {
+        #include "tb3\f\gear\CfgFunctions.hpp"
+	};
+};
+
+enabledebugconsole = 2;
